@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Gupta</h1>
 <h3 align="center">Aspiring Front End Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=A6Sl8DS%2f&id=1D729A48138085FFFE7E1A1F53A7E793E813673B&thid=OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj&mediaurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&exph=360&expw=480&q=animated+programming+gif&simid=608001803182343051&FORM=IRPRST&ck=B7E668487B5239B01BC352F44BED21BB&selectedIndex=25&itb=0">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta10&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumargupta10" /> </p>
 
