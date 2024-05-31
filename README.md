@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Gupta</h1>
 <h3 align="center">Aspiring Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta10&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumargupta10" /> </p>
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=A6Sl8DS%2f&id=1D729A48138085FFFE7E1A1F53A7E793E813673B&thid=OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj&mediaurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&exph=360&expw=480&q=animated+programming+gif&simid=608001803182343051&FORM=IRPRST&ck=B7E668487B5239B01BC352F44BED21BB&selectedIndex=25&itb=0">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkumargupta10" alt="rohitkumargupta10" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta10&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumargupta10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@captainrohitkg" target="blank"><img src="https://img.shields.io/twitter/follow/@captainrohitkg?logo=twitter&style=for-the-badge" alt="@captainrohitkg" /></a> </p>
 
@@ -12,10 +12,6 @@
 - 👨‍💻 All of my projects are available at [https://rohitkumargupta10.github.io/wt.mid.term.portfolio.project.github.io/](https://rohitkumargupta10.github.io/wt.mid.term.portfolio.project.github.io/)
 
 - 📫 How to reach me **rohitkumargupta1007@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkumargupta10&show_icons=true&locale=en" alt="rohitkumargupta10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumargupta10&" alt="rohitkumargupta10" /></p>
-
