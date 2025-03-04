@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@captainrohitkg" target="blank"><img src="https://img.shields.io/twitter/follow/@captainrohitkg?logo=twitter&style=for-the-badge" alt="@captainrohitkg" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://rohitkumargupta10.github.io/wt.mid.term.portfolio.project.github.io/](https://rohitkumargupta10.github.io/wt.mid.term.portfolio.project.github.io/)
-
-- 📫 How to reach me **rohitkumargupta1007@gmail.com**
+- 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
