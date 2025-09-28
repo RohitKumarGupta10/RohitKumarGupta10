@@ -38,9 +38,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
@@ -68,27 +65,22 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
   </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  </a>
 </p>
 
  <!-- QA / Testing Tools -->
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/> 
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> 
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="40" height="40"/> 
   </a>
-  <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/2890674?s=200&v=4" alt="PyTest" width="40" height="40"/> 
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.javatpoint.com/tutorial/testng/images/testng.png" alt="TestNG" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="40" height="40"/> 
   </a>
@@ -97,26 +89,14 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/> 
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" alt="GitLab CI/CD" width="40" height="40"/> 
+
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/> 
   </a>
-  <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_63d9a0a1b64c6/test-rail.png" alt="TestRail" width="40" height="40"/> 
-  </a>
-  <a href="https://www.qmetry.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.qmetry.com/wp-content/uploads/2019/06/qmetry-logo.svg" alt="QMetry" width="40" height="40"/> 
-  </a>
 
   <!-- Cloud -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
-  </a>
+
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a>
