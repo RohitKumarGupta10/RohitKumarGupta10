@@ -18,8 +18,7 @@
 🔍 **About Me**
 
 - 🎯 Currently working as a **QA Intern at Quick Heal Technologies**
-- 🌱 Actively learning **Automation Testing** and enhancing **API testing** skills
-- 💻 Passionate about **Software Testing**
+- 💻 Actively learning **Automation Testing** and enhancing **API testing** skills
 - 🚀 Exploring tools like **Playwright, Selenium, Postman, PyTest, JMeter, Jenkins, Cypress, TestNG, GitHub Actions, and Jira**
 
 ---
