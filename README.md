@@ -1,203 +1,205 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar Gupta</h1>
+<div align="center">
 
-<h3 align="center">QA Engineer I at Quick Heal Technologies</h3>
+# 👋 Hi, I'm Rohit Kumar Gupta
+
+### QA Engineer I @ Quick Heal Technologies
+
+**Manual Testing • Automation Testing • API Testing • Salesforce • Magento • WordPress • AI in QA**
+
+<p>
+  <a href="https://linkedin.com/in/rohitkumargupta10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://rohit-resume-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/RohitKumarGupta10">
+    <img src="https://img.shields.io/badge/GitHub-RohitKumarGupta10-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧪 QA Engineer Dashboard
+
+| Area                 | Focus                                                  |
+| -------------------- | ------------------------------------------------------ |
+| 🔍 **Testing**       | Functional • Regression • Integration • E2E            |
+| 🔌 **API**           | REST API • Postman • Data Validation                   |
+| 🤖 **Automation**    | Playwright • Selenium • Python                         |
+| ⚡ **Performance**    | JMeter • PageSpeed • Web Performance                   |
+| ☁️ **CRM**           | Salesforce Sales Cloud • Lead Integration • Dashboards |
+| 🌐 **Web Platforms** | Magento • WordPress • E-commerce                       |
+| 🚀 **CI/CD**         | GitHub Actions                                         |
+| 🧠 **AI in QA**      | AI Agents • Copilot • MCP • AI-assisted Testing        |
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **QA Engineer I at Quick Heal Technologies** with hands-on experience in testing web applications, e-commerce platforms, CRM integrations, APIs, automation, and performance.
+
+My current work includes **Magento and WordPress-based websites** and **Salesforce Sales Cloud integrations**, with a focus on lead data, field mapping, synchronization, dashboards, and release validation.
+
+I'm also exploring how **AI Agents, MCP, workflow automation, and AI-assisted testing** can improve QA processes.
+
+---
+
+## 🛠️ Testing & Automation
+
+### Manual & Functional Testing
+
+`Functional` `Regression` `Integration` `E2E` `Compatibility` `Web Testing`
+
+### API & Data
+
+`Postman` `REST APIs` `SQL` `Data Validation` `Field Mapping`
+
+### Automation
+
+`Playwright` `Selenium` `Python` `GitHub Actions`
+
+### Performance
+
+`JMeter` `PageSpeed` `Load Testing` `Performance Testing`
+
+---
+
+## 🌐 Platforms & Domains
 
 <p align="center">
-  <b>Manual Testing | Automation Testing | API Testing | Salesforce | Magento | WordPress | AI in QA</b>
+
+<img src="https://img.shields.io/badge/Salesforce-Sales%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+
+<img src="https://img.shields.io/badge/Magento-E--Commerce-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento"/>
+
+<img src="https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+
+<img src="https://img.shields.io/badge/E--Commerce-Testing-6f42c1?style=for-the-badge" alt="E-commerce Testing"/>
+
 </p>
-
-<img align="right" alt="QA Testing" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohitkumargupta10&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumargupta10" />
-</p>
-
----
-
-## 🔍 About Me
-
-* 💼 Currently working as a **QA Engineer I at Quick Heal Technologies**
-* 🧪 Experienced in **Manual Testing, Automation Testing, API Testing, Regression Testing, Integration Testing, and Performance Testing**
-* 🌐 Hands-on experience testing **Magento, WordPress, and Salesforce-based web applications**
-* ☁️ Working with **Salesforce Sales Cloud**, including lead integration, field mapping, synchronization, dashboards, and data validation
-* 🤖 Exploring **AI in QA, AI Agents, MCP Tools, and AI-assisted testing**
-* ⚙️ Building automation and workflow solutions using **n8n, Activepieces, GitHub Actions, and AI tools**
-* 🚀 Currently working with **Playwright, Selenium, Postman, JMeter, Python, SQL, Jira, and GitHub Actions**
-
----
-
-## 🧪 QA & Testing
-
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* End-to-End Testing
-* API Testing
-* Web Application Testing
-* Salesforce Testing
-* Performance & Load Testing
-* Compatibility Testing
-* Defect Reporting & Release Validation
 
 ---
 
 ## 🤖 AI in QA
 
-* GitHub Copilot
-* AI Agents
-* n8n Automation
-* Activepieces Workflow Automation
-* MCP Tools
-* AI-Assisted Test Generation
-* AI-Based QA Reporting
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistance-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 
-## 🛠️ Tools & Technologies
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-6f42c1?style=for-the-badge" alt="AI Agents"/>
 
-<p align="left">
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/Activepieces-Automation-7B61FF?style=for-the-badge" alt="Activepieces"/>
 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="40" height="40"/>
-  </a>
-
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.magento.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/magento/F26322" alt="Magento" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/MCP-Tools-444444?style=for-the-badge" alt="MCP"/>
 
 </p>
 
----
+**Areas I'm exploring:**
 
-## 🤖 AI & Automation Tools
-
-<p align="left">
-
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="40" height="40"/>
-  </a>
-
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.activepieces.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/activepieces" alt="Activepieces" width="40" height="40"/>
-  </a>
-
-</p>
+* AI-assisted test generation
+* AI Agents for QA workflows
+* Automated QA reporting
+* Workflow automation
+* MCP-based QA tools
+* AI-powered testing and monitoring
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-### 🔹 PageSpeed Monitor
+### ⚡ PageSpeed Monitor
 
 **Website Performance Testing Tool**
 
-* Built a Python and Selenium-based tool to check **Mobile and Desktop PageSpeed scores** for multiple websites.
-* Automated performance checks using **GitHub Actions** and generated **Excel test reports**.
+A Python + Selenium-based tool that checks **Mobile and Desktop PageSpeed scores** for multiple websites.
 
-### 🔹 VitaClinic
+**Highlights**
+
+* Automated performance checks
+* Mobile & Desktop testing
+* Screenshot capture
+* Excel test reports
+* GitHub Actions automation
+
+---
+
+### 🏥 VitaClinic
 
 **Virtual Healthcare & Telemedicine Platform**
 
-* Tested **authentication, appointment booking, Razorpay payments, video consultation, and prescriptions**.
-* Performed **End-to-End, Functional, Integration, and Regression Testing**.
-* Technologies: **HTML, CSS, JavaScript, Firebase, Firestore, Razorpay, Jitsi Meet**
+A final-year project focused on virtual healthcare and online consultations.
+
+**QA Coverage**
+
+* Authentication
+* Appointment Booking
+* Razorpay Payments
+* Video Consultation
+* Prescriptions
+* Functional Testing
+* Integration Testing
+* Regression Testing
+* End-to-End Testing
+
+**Technology:** `HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Razorpay` `Jitsi Meet`
 
 ---
 
 ## 📜 Certifications
 
-* **Software Testing Fundamentals and Methodologies** — Microsoft | 2026
-* **Introduction to Playwright** — TestAutomationU | 2026
-* **GitHub Foundation Certification** — GitHub | 2025
-* **Agile Scrum Master Certification** — Simplilearn | 2025
+| Certification                                   | Organization    | Year |
+| ----------------------------------------------- | --------------- | ---: |
+| Software Testing Fundamentals and Methodologies | Microsoft       | 2026 |
+| Introduction to Playwright                      | TestAutomationU | 2026 |
+| GitHub Foundation Certification                 | GitHub          | 2025 |
+| Agile Scrum Master Certification                | Simplilearn     | 2025 |
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 **Winner** — Hackathon #Tech25
-* 🥈 **Runner-up** — Tech Expo #Tech25
-* 🥈 **Silver Medal** — Science Olympiad
-* 🏅 **Top 50** — Coding Ninjas Codethon
-* 🏅 **Top 10 at College Level** — Smart India Hackathon 2025
+🏆 **Winner** — Hackathon #Tech25
+🥈 **Runner-up** — Tech Expo #Tech25
+🥈 **Silver Medal** — Science Olympiad
+🏅 **Top 50** — Coding Ninjas Codethon
+🏅 **Top 10 at College Level** — Smart India Hackathon 2025
 
 ---
 
 ## 🎓 Education
 
-**Ajeenkya DY Patil University, Pune**
+**B.Tech — Computer Science & Engineering (Software Engineering)**
+Ajeenkya DY Patil University, Pune
 
-**B.Tech in Computer Science & Engineering (Software Engineering)**
-Graduated: **2026 | CGPA: 9.04**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-  <a href="https://linkedin.com/in/rohitkumargupta10/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://rohit-resume-three.vercel.app/" target="_blank">
-    🌐 Portfolio
-  </a>
-
-</p>
+**Graduated 2026 • CGPA: 9.04**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkumargupta10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/RohitKumarGupta10?style=for-the-badge&label=Followers" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/github/stars/RohitKumarGupta10?style=for-the-badge&label=Stars" alt="GitHub Stars"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/RohitKumarGupta10?style=for-the-badge&label=Commits" alt="GitHub Commits"/>
+
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkumargupta10&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumargupta10" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+### 💬 Let's Connect
+
+**QA • Automation • Salesforce • AI in QA**
+
+<a href="https://linkedin.com/in/rohitkumargupta10/">LinkedIn</a> • <a href="https://rohit-resume-three.vercel.app/">Portfolio</a> • <a href="https://github.com/RohitKumarGupta10">GitHub</a>
+
+</div>
